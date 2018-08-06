@@ -1,1 +1,1 @@
-# -Sopt_22_Server_Team6
+# Sopt_22_Server_Team6
