@@ -1,5 +1,5 @@
 # Sopt_22_Server_Team6
-Sopt 22nd Server Part Hab-Dong Project _Team6
+Spot 22기 서버파트 6조 합동과제
 
 ---
 
